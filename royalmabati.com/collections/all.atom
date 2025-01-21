@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.royalmabati.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.royalmabati.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.royalmabati.com/collections/all.atom"/>
+  <title>Royal Mabati</title>
+  <updated>2024-08-02T00:12:59+03:00</updated>
+  <author>
+    <name>Royal Mabati</name>
+  </author>
+  <entry>
+    <id>https://www.royalmabati.com/products/7595646713955</id>
+    <published>2024-08-02T00:12:59+03:00</published>
+    <updated>2024-08-02T00:12:59+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-box-profile"/>
+    <title>Royal Box Profile®</title>
+    <s:type>Royal Box Profile</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RoyalBoxProfileCharcoalGrey.G30.png?v=1722583639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>Royal Box Profile<br>
+        <strong>Price: </strong>
+            328.00 - 612.00
+            <a href="https://www.royalmabati.com/products/royal-box-profile">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the pinnacle of roofing craftsmanship with our <strong>Royal Box Profile</strong>. Renowned globally for uncompromising quality, this roofing material seamlessly integrates cutting-edge technology with sophisticated aesthetics, delivering exceptional performance and visual appeal.</p>
+<p>Crafted using proprietary technology and premium materials, the <strong>Royal Box Profile</strong> is designed to withstand the toughest conditions while maintaining its stunning appearance. Whether you opt for the radiant elegance of <strong>Royal Shine</strong> or the refined subtlety of <strong>Elite Matte</strong>, this roofing solution delivers unmatched strength and beauty, making it the ideal choice for those who demand the best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Matt / 28 / Brick Red</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Matt / 28 / Charcoal Grey</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Matt / 28 / Chocolate Brown</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Matt / 30 / Brick Red</title>
+      <s:price currency="KES">508.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Matt / 30 / Charcoal Grey</title>
+      <s:price currency="KES">508.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Glossy / 30 / Brick Red</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Glossy / 30 / Charcoal Grey</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Glossy / 30 / Dark blue</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Glossy / 30 / Jungle green</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7595646713955</id>
+      <title>Royal Glossy / 32 / Charcoal Grey</title>
+      <s:price currency="KES">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7594794975331</id>
+    <published>2024-07-31T12:55:54+03:00</published>
+    <updated>2024-07-31T12:55:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-alloyzinc-box-non-coloured"/>
+    <title>Royal AlloyZinc Box® (Non-coloured)</title>
+    <s:type>Royal AlloyZinc Box (Non-coloured)</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsApp_Image_2024-07-31_at_4.51.47_PM_1.jpg?v=1722434283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>Royal AlloyZinc Box (Non-coloured)<br>
+        <strong>Price: </strong>
+            323.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Royal AlloyZinc Box roofing mabati stands out as a premium choice for modern roofing needs. With its unique blend of advanced material technology and superior craftsmanship, this non-coloured sheet is designed to provide unmatched durability and aesthetic appeal.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7594794975331</id>
+      <title>Default Title</title>
+      <s:price currency="KES">323.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7594364698723</id>
+    <published>2024-07-30T22:56:16+03:00</published>
+    <updated>2024-07-30T22:56:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-alloyzinc-non-coloured"/>
+    <title>Royal AlloyZinc Corrugated® (Non-coloured)</title>
+    <s:type>Royal AlloyZinc Corrugated (Non-coloured)</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsApp_Image_2024-07-31_at_4.51.46_PM.jpg?v=1722434386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>Royal AlloyZinc Corrugated (Non-coloured)<br>
+        <strong>Price: </strong>
+            323.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal AlloyZinc (Non-coloured) sheets, offers definitive choice for superior roofing solutions. Crafted from a premium-grade zinc alloy, these sheets epitomize durability, elegance, and advanced engineering, offering unparalleled performance for discerning projects.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7594364698723</id>
+      <title>Default Title</title>
+      <s:price currency="KES">323.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7545948242019</id>
+    <published>2024-06-27T17:05:40+03:00</published>
+    <updated>2024-06-27T17:05:40+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/rubber-washers-1"/>
+    <title>ROYAL RUBBER WASHERS®</title>
+    <s:type>ROYAL RUBBER WASHERS®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsAppImage2024-06-11at4.06.16PM.jpg?v=1719496988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL RUBBER WASHERS®<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7545948242019</id>
+      <title>KES 112.00 / black</title>
+      <s:price currency="KES">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7511907270755</id>
+    <published>2024-06-11T16:53:37+03:00</published>
+    <updated>2024-06-11T16:53:37+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/zee-tile"/>
+    <title>ROYAL  ZEE TILE®</title>
+    <s:type>Royal Zee Tile</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RoyalZeetileBrickRedMatteFinish.G28.png?v=1718113507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>Royal Zee Tile<br>
+        <strong>Price: </strong>
+            491.00 - 610.00
+            <a href="https://www.royalmabati.com/products/zee-tile">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crafted with precision and designed for excellence, our Zee Tile roofing solution embodies sophistication and durability. Engineered to withstand the test of time, Zee Tile offers unparalleled resilience against adverse weather conditions while maintaining its aesthetic appeal.</strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7511907270755</id>
+      <title>30 / GLOSSY</title>
+      <s:price currency="KES">491.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7511907270755</id>
+      <title>30 / MATTE</title>
+      <s:price currency="KES">610.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7511907270755</id>
+      <title>30 / STONECOATED</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7511907270755</id>
+      <title>28 / MATTE</title>
+      <s:price currency="KES">610.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510638198883</id>
+    <published>2024-06-11T11:33:37+03:00</published>
+    <updated>2024-06-11T11:33:37+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/valley"/>
+    <title>ROYAL VALLEY®</title>
+    <s:type>ROYAL VALLEY®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/Valley.png?v=1718094819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL VALLEY®<br>
+        <strong>Price: </strong>
+            258.00 - 612.00
+            <a href="https://www.royalmabati.com/products/valley">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Valley panels are engineered to enhance the efficiency and durability of your roofing system by effectively channeling water away from the roof's valleys, where two slopes meet. Designed for optimal performance and aesthetic integration, these panels are a crucial component for any well-constructed roof.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>30 / GALVANIZED</title>
+      <s:price currency="KES">258.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>30 / ALLOYZINC</title>
+      <s:price currency="KES">431.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>30 / GLOSSY</title>
+      <s:price currency="KES">413.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>30 / MATTE</title>
+      <s:price currency="KES">525.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>30 / STONECOATED</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638198883</id>
+      <title>28 / MATTE</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510638035043</id>
+    <published>2024-06-11T11:33:34+03:00</published>
+    <updated>2024-06-11T11:33:34+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-shingle"/>
+    <title>ROYAL STONE COATED SHINGLE®</title>
+    <s:type>ROYAL STONE COATED SHINGLE®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/Royal_shingle.jpg?v=1721906005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL STONE COATED SHINGLE®<br>
+        <strong>Price: </strong>
+            603.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embrace sophistication and fortitude in roofing – choose Royal Shingle. Redefine your skyline with a touch of regal refinement, ensuring your abode stands as a beacon of elegance for years to come.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638035043</id>
+      <title>26 / Stone Coated</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510638002275</id>
+    <published>2024-06-11T11:33:32+03:00</published>
+    <updated>2024-06-11T11:33:32+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-modern"/>
+    <title>ROYAL TRUSSES®</title>
+    <s:type>ROYAL TRUSSES®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsAppImage2024-06-11at10.56.30PM_2_d474bd93-e653-4d90-b52e-ffa071b1e7a0.jpg?v=1718136302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL TRUSSES®<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Steel Trusses are designed to provide exceptional support and stability to your roofing structure. Crafted from high-grade steel, these trusses are engineered for superior performance and longevity, ensuring your roof can withstand various loads and weather conditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510638002275</id>
+      <title>22</title>
+      <s:price currency="KES">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637903971</id>
+    <published>2024-06-11T11:33:31+03:00</published>
+    <updated>2024-06-11T11:33:31+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/royal-classic"/>
+    <title>ROYAL STONE COATED CLASSIC®</title>
+    <s:type>ROYAL STONE COATED CLASSIC®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/classic.jpg?v=1721905475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL STONE COATED CLASSIC®<br>
+        <strong>Price: </strong>
+            603.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Classic Stone Coated</strong> roofing tiles are a premium choice for those looking to combine durability with aesthetics. The classic design is suitable for a variety of architectural styles, offering a sleek and contemporary look</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637903971</id>
+      <title>26 / Stone coated</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637871203</id>
+    <published>2024-06-11T11:33:29+03:00</published>
+    <updated>2024-06-11T11:33:29+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/roofing-nails"/>
+    <title>ROYAL ROOFING NAILS®</title>
+    <s:type>ROYAL ROOFING NAILS®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/roofing-nails.png?v=1718190051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL ROOFING NAILS®<br>
+        <strong>Price: </strong>
+            216.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Royal Roofing Experience: Where Quality Meets Confidence. Elevate your roofing project with our curated selection of premium roofing materials, meticulously sourced to ensure unparalleled durability and performance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637871203</id>
+      <title>KG</title>
+      <s:price currency="KES">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637805667</id>
+    <published>2024-06-11T11:33:27+03:00</published>
+    <updated>2024-06-11T11:33:27+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/romanlong-tile"/>
+    <title>ROYAL ROMANLONG TILE®</title>
+    <s:type>ROYAL ROMANLONG TILE®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/Royal_RomanTile_Brick_Red_Matte_Finish._G28.png?v=1718114321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL ROMANLONG TILE®<br>
+        <strong>Price: </strong>
+            540.00 - 710.00
+            <a href="https://www.royalmabati.com/products/romanlong-tile">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in timeless beauty and unmatched durability with our Roman Long Tile roofing solution. Inspired by classic architectural styles, Roman Long Tile exudes sophistication and charm, elevating the aesthetic appeal of any home.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637805667</id>
+      <title>30 / GLOSSY</title>
+      <s:price currency="KES">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637805667</id>
+      <title>30 / MATTE</title>
+      <s:price currency="KES">610.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637805667</id>
+      <title>30 / STONECOATED</title>
+      <s:price currency="KES">680.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637805667</id>
+      <title>28 / MATTE</title>
+      <s:price currency="KES">710.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637707363</id>
+    <published>2024-06-11T11:33:24+03:00</published>
+    <updated>2024-06-11T11:33:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/ridge-cap-roll"/>
+    <title>ROYAL ROLL TOP®</title>
+    <s:type>ROYAL ROLL TOP®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsAppImage2024-06-13at9.21.17AM.jpg?v=1718350297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL ROLL TOP®<br>
+        <strong>Price: </strong>
+            448.00 - 603.00
+            <a href="https://www.royalmabati.com/products/ridge-cap-roll">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Ridge Cap Roll is the ultimate solution for sealing the ridge of your roof, providing both protection and a clean, finished look. Designed to complement various roofing styles, it ensures your roof is watertight and aesthetically pleasing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637707363</id>
+      <title>30 / Matt</title>
+      <s:price currency="KES">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637707363</id>
+      <title>30 / Glossy</title>
+      <s:price currency="KES">448.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637707363</id>
+      <title>28 / Matt</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637641827</id>
+    <published>2024-06-11T11:33:22+03:00</published>
+    <updated>2024-06-11T11:33:22+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/ridge-cap"/>
+    <title>ROYAL WEDGE RIDGE CAP®</title>
+    <s:type>ROYAL RIDGE CAP®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/Ridge-Cap.png?v=1718094803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL RIDGE CAP®<br>
+        <strong>Price: </strong>
+            258.00 - 603.00
+            <a href="https://www.royalmabati.com/products/ridge-cap">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>RIDGE CAP roofing sheets are essential components for any roofing system, designed to cover the ridge or hip of a roof to provide a neat finish and prevent water ingress.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>30 / GALVANIZED</title>
+      <s:price currency="KES">258.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>30 / ALLOYZINC</title>
+      <s:price currency="KES">431.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>30 / GLOSSY FINISH</title>
+      <s:price currency="KES">405.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>30 / MATTE FINISH</title>
+      <s:price currency="KES">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>30 / STONECOATED FINISH</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637641827</id>
+      <title>28 / MATTE FINISH</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637543523</id>
+    <published>2024-06-11T11:33:19+03:00</published>
+    <updated>2024-06-11T11:33:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/plainsheet"/>
+    <title>ROYAL PLAINSHEET®</title>
+    <s:type>ROYAL PLAINSHEET®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/WhatsApp_Image_2024-06-25_at_2.40.42_PM.jpg?v=1719315845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL PLAINSHEET®<br>
+        <strong>Price: </strong>
+            259.00 - 603.00
+            <a href="https://www.royalmabati.com/products/plainsheet">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These sheets provide a balance of durability, affordability, and ease of installation, making them a popular choice for both new constructions and renovations.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637543523</id>
+      <title>30 / GALVANIZED</title>
+      <s:price currency="KES">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637543523</id>
+      <title>30 / ALLOYZINC</title>
+      <s:price currency="KES">431.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637543523</id>
+      <title>30 / GLOSSY FINISH</title>
+      <s:price currency="KES">414.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637543523</id>
+      <title>30 / MATTE FINISH</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637543523</id>
+      <title>28 / MATTE FINISH</title>
+      <s:price currency="KES">517.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637445219</id>
+    <published>2024-06-11T11:33:18+03:00</published>
+    <updated>2024-06-11T11:33:18+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/gypsum"/>
+    <title>ROYAL GYPSUM CHANNELS®</title>
+    <s:type>ROYAL GYPSUM®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RMFL-GYPSUMCHANNELS.jpg?v=1718111899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL GYPSUM®<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637445219</id>
+      <title>24</title>
+      <s:price currency="KES">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637379683</id>
+    <published>2024-06-11T11:33:15+03:00</published>
+    <updated>2024-06-11T11:33:15+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/euro-tile"/>
+    <title>ROYAL EURO TILE®</title>
+    <s:type>ROYAL EURO TILE®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RoyalEurotileCharcoalGreyG28.png?v=1718111776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL EURO TILE®<br>
+        <strong>Price: </strong>
+            610.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from high-quality materials, EURO TILE sheets are built to withstand harsh weather conditions, ensuring your roof remains intact and secure for many years.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637379683</id>
+      <title>28 / MATTE FINISH</title>
+      <s:price currency="KES">610.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637314147</id>
+    <published>2024-06-11T11:33:13+03:00</published>
+    <updated>2024-06-11T11:33:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/corrugated"/>
+    <title>ROYAL CORRUGATED COLOURED PROFILE®</title>
+    <s:type>ROYAL CORRUGATED COLOURED PROFILE®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RoyalCorrugatedProfile-CharcoalGreyG30.png?v=1718108408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL CORRUGATED COLOURED PROFILE®<br>
+        <strong>Price: </strong>
+            328.00 - 612.00
+            <a href="https://www.royalmabati.com/products/corrugated">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the <strong>ROYAL CORRUGATED COLOURED PROFILE®</strong>—Experience why this profile has been a preferred choice for countless customers. With the <strong>ROYAL CORRUGATED COLOURED PROFILE®</strong>, you’re not just choosing a roofing material; you’re choosing a proven performer that delivers on its promise of quality and value.</p>
+<p>Transform your roofing project with a product that has stood the test of time. Choose the <strong>ROYAL CORRUGATED COLOURED PROFILE®</strong>—where affordability meets excellence.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>30 / Royal glossy / Brick Red</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>30 / Royal glossy / Charcoal Grey</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>30 / Royal glossy / Dark blue</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>30 / Royal glossy / Jungle green</title>
+      <s:price currency="KES">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>28 / Royal Matte / Brick Red</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>28 / Royal Matte / Chocolate Brown</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>28 / Royal Matte / Charcoal Grey</title>
+      <s:price currency="KES">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>32 / Royal glossy / Brick Red</title>
+      <s:price currency="KES">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637314147</id>
+      <title>32 / Royal glossy / Charcoal Grey</title>
+      <s:price currency="KES">328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.royalmabati.com/products/7510637215843</id>
+    <published>2024-06-11T11:33:10+03:00</published>
+    <updated>2024-06-11T11:33:10+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.royalmabati.com/products/bricktile"/>
+    <title>ROYAL BRICKTILE®</title>
+    <s:type>ROYAL BRICKTILE®</s:type>
+    <s:vendor>Royal Mabati</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0585/0457/7123/files/RoyalBrickTileCharcoalGreyMatteFinish.G28.png?v=1718111262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Mabati<br>
+        <strong>Type: </strong>ROYAL BRICKTILE®<br>
+        <strong>Price: </strong>
+            491.00 - 620.00
+            <a href="https://www.royalmabati.com/products/bricktile">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to mimic the appearance of traditional brick tiles, providing a classic and timeless look while offering the superior performance of modern roofing materials.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637215843</id>
+      <title>30 / GLOSSY FINISH</title>
+      <s:price currency="KES">491.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637215843</id>
+      <title>30 / MATTE FINISH</title>
+      <s:price currency="KES">525.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637215843</id>
+      <title>30 / STONECOATED FINISH</title>
+      <s:price currency="KES">603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.royalmabati.com/products/7510637215843</id>
+      <title>28 / MATTE FINISH</title>
+      <s:price currency="KES">620.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
